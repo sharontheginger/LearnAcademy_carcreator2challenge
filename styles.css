@@ -1,0 +1,27 @@
+#blueCar {
+    position: relative;
+    -webkit-animation: 2s;
+
+animation-name: floatBubble;
+animation-duration: infinite;
+animation-fill-mode:;
+animation-delay: ;
+animation-timing-function: ;
+animation-iteration-count: 0;
+animation-direction: ;
+animation-direction: ;
+animation-play-state: ;
+
+}
+@keyframes floatBubble {
+    0% {
+        left:100px;
+    }
+    50% 80% {
+        left:700px;
+    }
+    100% {
+        left: 1000px;
+    }
+
+}
